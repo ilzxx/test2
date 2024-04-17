@@ -4,7 +4,19 @@ header{
 .logo{
     width: 100px;
     height: 100px;
+    border: solid 1px white;
 }
 #menu1 ul{
     list-style: none;
 }
+ #menu1 ul li a {
+     display: block;
+     padding: 9px 25px 0px 25px;
+     font-size: 14px;
+     line-height: 1.3em;
+     text-decoration: none;
+     font-weight: bold;
+     text-transform: uppercase;
+     height: 36px;
+     box-sizing: border-box;
+     color: white;}
