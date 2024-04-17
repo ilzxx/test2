@@ -1,3 +1,10 @@
 header{
     background-color: black;
 }
+.logo{
+    width: 100px;
+    height: 100px;
+}
+#menu1 ul{
+    list-style: none;
+}
