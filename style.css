@@ -81,11 +81,15 @@ nav {
     display: flex;
 }
 
-.footer-colum{
+.footer-columns{
   background-color: rgb(0, 0, 0);
   padding: 20px;
   border-radius: 10px;
   margin-bottom: 20px;
   display: flex;
   color: white;
+}
+
+.footer-column{
+  flex: 50%;
 }
