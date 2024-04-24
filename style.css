@@ -74,7 +74,8 @@ nav {
     width: 1250px;
   }
 
-  footer img {
+#footer-img {
+    
     top: 35px;
   }
 
