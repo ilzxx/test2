@@ -95,7 +95,7 @@ nav {
   flex: 50%;
 }
 .jacquard-12-charted-regular {
-  font-family: "Jacquard 12 Charted", system-ui;
+  font-family: "Jacquard 12 Charted";
   font-weight: 400;
   font-style: normal;
 }
