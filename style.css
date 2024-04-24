@@ -1,6 +1,7 @@
 body {
     display: flex;
     justify-content: center;
+    flex-direction: column;
 }
 
 header{
@@ -71,3 +72,10 @@ nav {
   footer {
     width: 1250px;
   }
+  .post {
+    background-color: silver;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+}
