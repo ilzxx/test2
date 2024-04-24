@@ -1,3 +1,7 @@
+body {
+    width: 1250px;
+}
+
 header{
     background-color: rgb(138, 136, 136);
 }
@@ -14,6 +18,7 @@ nav {
     background-color: black;
     position: relative;
     top: 25px;
+    display: flex;
 }
 .dropbtn {
     background-color: #000000;
@@ -23,6 +28,13 @@ nav {
     border: none;
   }
   
+  .flex1 {
+    width: 70%;
+  }
+
+  .flex2 {
+    width: 15%;
+  }
   .dropdown {
     position: relative;
     display: inline-block;
