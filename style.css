@@ -88,8 +88,14 @@ nav {
   margin-bottom: 20px;
   display: flex;
   color: white;
+  font-style: Jacquard 12 Charted;
 }
 
 .footer-column{
   flex: 50%;
+}
+.jacquard-12-charted-regular {
+  font-family: "Jacquard 12 Charted", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
