@@ -73,6 +73,15 @@ nav {
   footer {
     width: 1250px;
   }
+
+  footer img {
+    top: 35px;
+  }
+
+  footer a {
+    text-decoration: none;
+    color: white;
+  }
   .post {
     background-color: silver;
     padding: 20px;
