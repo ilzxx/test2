@@ -79,3 +79,7 @@ nav {
     margin-bottom: 20px;
     display: flex;
 }
+.slider{
+  position: relative;
+  top: 20px;
+}
